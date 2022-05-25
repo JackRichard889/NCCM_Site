@@ -9,8 +9,8 @@
 
 <channel>
 	<title>New Canaan Chamber Music</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://https://jackrichard889.github.io/NCCM_Site/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://jackrichard889.github.io/NCCM_Site</link>
 	<description>Performing world-class chamber music in New Canaan for audiences from far and wide.</description>
 	<lastBuildDate>Sun, 01 May 2022 15:34:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/4524d5_6bcaaf1fd983428c89d9918cb1fdace3_mv2-100x100.png</url>
+	<url>http://https://jackrichard889.github.io/NCCM_Site/wp-content/uploads/2022/04/4524d5_6bcaaf1fd983428c89d9918cb1fdace3_mv2-100x100.png</url>
 	<title>New Canaan Chamber Music</title>
-	<link></link>
+	<link>http://https://jackrichard889.github.io/NCCM_Site</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
